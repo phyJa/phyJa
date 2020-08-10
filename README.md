@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on with PHP and React projects.
-- 🌱 I’m currently learning new techonologies related to JavaScript, such as TypeScript, ReactJs, React Native and NodeJS.
+- 🌱 I’m currently learning new techonologies related to JavaScript, such as TypeScript, ReactJS, React Native and NodeJS.
 - 👯 I’m looking to collaborate on any new projects to acquire more experience.
 - 🤔 I’m looking for help with getting a new job.
 - 💬 Ask me about anything! I would be glad to help and contribute.
